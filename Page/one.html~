@@ -230,8 +230,8 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">About &amp; Links</h1>
 
-<div id="outline-container-org55d6340" class="outline-2">
-<h2 id="org55d6340"><span class="section-number-2">1</span> 关于</h2>
+<div id="outline-container-org57caa76" class="outline-2">
+<h2 id="org57caa76"><span class="section-number-2">1</span> 关于</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 本站为静态博客（假的，连评论、RSS 都没有，不具备博客基本要素）试验田。
@@ -239,8 +239,8 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org22e82ec" class="outline-2">
-<h2 id="org22e82ec"><span class="section-number-2">2</span> 链接</h2>
+<div id="outline-container-orgf437ffe" class="outline-2">
+<h2 id="orgf437ffe"><span class="section-number-2">2</span> 链接</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li><a href="https://github.com/kyvx/blog-makdown">早期文章</a></li>
