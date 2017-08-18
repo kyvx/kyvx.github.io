@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+<!-- 2017-08-18 五 11:09 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>【尊马讨修 №2】他们为什么要自欺欺人？</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">【尊马讨修 №2】他们为什么要自欺欺人？</h1>
+<p>
+修正主义者一向极端痛恨社会主义革命，自从苏中两国资产阶级复辟后，他们便靠吃诋毁苏中社会主义建设的伟大成就、诋毁伟大旗手斯大林同志、伟大舵手毛主席和拥护他们的伟大人民这碗饭为生。他们越是使劲辱骂社会主义国家，越是能够讨得你国资产阶级及其拥护者粉红小将的欢心，越是能够赢得各路牛鬼蛇神反对派的赞誉，他们就跟享用更多中修帝国主义的残羹冷炙，中修帝国主义的慷慨施舍还能为修正小丑们继续恶毒地攻击世界共产主义运动增添了动力。修正主义者跪添资本主义的丑陋嘴脸已为所有的革命马克思主义者、觉悟的无产阶级所不齿，而修正小丑们不以此为耻，反以此为荣，继续撒播一个又一个颠倒历史黑白的弥天大谎，真是无耻到了极点，可惜，谎言遮盖不了真相，反而暴露出修正主义叛徒集团极度虚弱、极度害怕马列主义的革命真理、极度不愿意面对历史真相的丑陋面目，而澄清修正叛徒集团们散布的弥天大谎，对于今日马克思主义具有重大的意义。
+</p>
+
+<p>
+最近，一些国家主义者、民族主义者又蹦达出来舒活舒活筋骨，抖擞抖擞精神了。他们为了疯狂攻击马克思主义，又从历史垃圾堆里翻出这些破烂，尽管这些谎言谬论又肮脏又无耻又不值一驳，却不妨碍这些资产阶级的孝子贤孙捡起这些不值一驳的谣言谬论抹黑马克思主义，妄图掀起新一轮的反共高潮，便于他推销已成历史垃圾的谬论。
+</p>
+
+<div id="outline-container-orgc9c3459" class="outline-2">
+<h2 id="orgc9c3459"><span class="section-number-2">1</span> 谬论一：主体性的“神话”</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+这些修正主义者说什么无产阶级素质底下、现存的工人阶级力量有限、无法夺取政权只能被外国利用、只能放弃革命，令人啼笑皆非，修正叛徒一向喜把欢劳动人民绑在他们的修正主义战车上，可惜他们的阴险图谋却一次次地破产，一次次地失败。无产阶级革命是否能够成功，是看有没有一个先锋队。在整个无产阶级中，先进分子当然是少数。在群众运动中，少数先进的人需要带领大多数不先进的人前进，后者需要前者的领导才能走在正确的道路上。如果工人阶级个个精通马列主义，那要先锋队干嘛？还有，工人阶级的力量不是由“工人阶级在全国人口中所占的比例”决定的，这是所谓的“唯生产力”论。
+</p>
+
+<p>
+而这些修正主义的孝子贤孙还把群众与先锋队对立起来：胡说什么先锋队只能产生于产业工人群体，不能产生于“革命知识分子”。出身不由己，道路自选择。阶级出身这玩意是打烙印的，成长的家庭环境对人的影响是客观存在的，在这一点上不应采取鸵鸟政策。当然，选择走什么路归根结底是自己决定的。能做的，只能是坚持“有成分论不唯成分论”、“重在表现”、“出身不由己、道路可选择”的原则。内因起决定作用，外因通过内因起作用。我们承认内因的决定作用，但不能因此否认外因的作用。血统论和出身论，都是形而上学的谬论，前者倒向外因论，后者则割裂外因和内因，否认外因的作用。 
+</p>
+
+<p>
+无产阶级先锋队的先进性来自于它的组织性、纪律性、革命性。最有纪律的劳动者来自于流水线，但脑力劳动者就没有这种组织性、纪律性吗？现在的码农、画师的工作不就已经流水线化了吗？革命性从哪里来？——群体斗争情绪、斗争经验和自觉性。
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d0e81c" class="outline-2">
+<h2 id="org6d0e81c"><span class="section-number-2">2</span> 谬论二：“融工”派</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+够了！够了！这些修正主义为了葬送革命，居然打出“融工”的口号：胡说什么只有“融工”的左青才是左青，帮助工人维权、组织 NGO 的、给工人提供法律咨询的左青都是“伪左青”，真是笑死我了。这种盲动的的路线，无非只是要鲁迅拿枪弃笔罢了。没有一定基础的左青盲目融工只能有一下两种结果：
+</p>
+
+<ol class="org-ol">
+<li>被资产阶级洗脑，认为工人都直男癌、醺酒、嗜赌，只注意到工人阶级中的落后分子，丧失革命热情；</li>
+<li>缺乏斗争艺术，无法与工友合作，被资产阶级发现并驱逐。</li>
+</ol>
+
+<p>
+参与无产阶级的斗争，不是非得只有“融工”一条路可以走。再说，你进厂也不一定能够参加流水线生产，而且天朝现在的无产阶级还不是一个“自为”的阶级，你以为现在还是文革时期啊？现在的天朝乃是资本主义社会，这样一个自在的阶级能够教会新人什么革命性呢？
+</p>
+
+<p>
+世界上没有自来红，只有改造红；没有“来自灵魂深处”的革命，只有先锋队领导的革命。进厂做工算是一个办法，但这个办法本身绝不是灵丹妙药！
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2017-08-18 五 11:09</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
