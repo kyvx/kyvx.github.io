@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-<!-- 2017-08-18 五 14:39 -->
+<!-- 2017-08-18 五 14:40 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>吐槽 HUB</title>
@@ -227,7 +227,11 @@ for the JavaScript code in this tag.
 </script>
 </head>
 <body>
-<div id="content">
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="/"> UP </a>
+ |
+ <a accesskey="H" href="/"> HOME </a>
+</div><div id="content">
 <h1 class="title">吐槽 HUB</h1>
 <ul class="org-ul">
 <li>Other
@@ -251,7 +255,7 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2017-08-18 五 14:39</p>
+<p class="date">Created: 2017-08-18 五 14:40</p>
 <p class="validation"></p>
 </div>
 </body>
