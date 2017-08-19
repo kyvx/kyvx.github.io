@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-<!-- 2017-08-18 五 15:47 -->
+<!-- 2017-08-19 六 10:32 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>About &amp; Links</title>
@@ -234,18 +234,18 @@ for the JavaScript code in this tag.
 </div><div id="content">
 <h1 class="title">About &amp; Links</h1>
 
-<div id="outline-container-orgb950be0" class="outline-2">
-<h2 id="orgb950be0"><span class="section-number-2">1</span> 关于</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-orge37a5e7" class="outline-2">
+<h2 id="orge37a5e7">关于</h2>
+<div class="outline-text-2" id="text-orge37a5e7">
 <p>
 本站为静态博客（假的，连评论、RSS 都没有，不具备博客基本要素）试验田。
 </p>
 </div>
 </div>
 
-<div id="outline-container-org1c81f55" class="outline-2">
-<h2 id="org1c81f55"><span class="section-number-2">2</span> 链接</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-org7df3cfb" class="outline-2">
+<h2 id="org7df3cfb">链接</h2>
+<div class="outline-text-2" id="text-org7df3cfb">
 <ul class="org-ul">
 <li><a href="https://github.com/kyvx/blog-makdown">早期文章</a></li>
 <li><a href="https://github.com/kyvx/blog-makdown/issues/new">评论 &amp; 反馈（其实是 Issues）</a></li>
@@ -255,7 +255,7 @@ for the JavaScript code in this tag.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2017-08-18 五 15:47</p>
+<p class="date">Created: 2017-08-19 六 10:32</p>
 <p class="validation"></p>
 </div>
 </body>
