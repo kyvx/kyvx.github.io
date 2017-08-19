@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-<!-- 2017-08-19 六 10:32 -->
+<!-- 2017-08-19 六 10:31 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>吐槽 HUB</title>
+<title>对知乎用户“安玲”关于自由软件思想成果的评论</title>
 <meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -232,30 +232,57 @@ for the JavaScript code in this tag.
  |
  <a accesskey="H" href="/"> HOME </a>
 </div><div id="content">
-<h1 class="title">吐槽 HUB</h1>
+<h1 class="title">对知乎用户“安玲”关于自由软件思想成果的评论</h1>
+<p>
+知乎专栏原文：<a href="https://zhuanlan.zhihu.com/p/27316644">论开源作为公有制生产关系的社会主义性质</a>
+</p>
+
 <ul class="org-ul">
-<li>Other
-<ul class="org-ul">
-<li><a href="Other/revolutionary-utilitarianism.html">★列宁在1918：革命の功利主义</a></li>
-</ul></li>
-<li>Page
-<ul class="org-ul">
-<li><a href="Page/one.html">About &amp; Links</a></li>
-</ul></li>
-<li>Post
-<ul class="org-ul">
-<li><a href="Post/party.html">【尊马讨修 №2】他们为什么要自欺欺人？</a></li>
-<li><a href="Post/capitalist.html">【尊马讨资】苍蝇也笑老鹰飞——论“资本主义者”</a></li>
-<li><a href="Post/nothing.html">出身不由己，道路自选择</a></li>
-<li><a href="Post/free-software.html">对知乎用户“安玲”关于自由软件思想成果的评论</a></li>
-<li><a href="Post/abstract-labour.html">对问题“马克思无差别的人类劳动，与平均主义、大锅饭有什么区别？”的回答</a></li>
-<li><a href="Post/zhihu-left-class.html">知乎左圈生态观察日记——“阶级固化”</a></li>
-<li><a href="Post/students-competition.html">竞争？养蛊！</a></li>
-</ul></li>
+<li>安玲先生在这里认为软件是生产资料：</li>
 </ul>
+
+<blockquote>
+<p>
+程序员进行代码编写的活动就是劳动，而劳动对象则是劳动过程所需要的原料——从信息技术行业来说就是电能：任何信息活动都需要大量的电能所驱动。所谓劳动资料就是生产工具，那么程序员的生产工具就是开发软件了，程序员生产软件产品或者信息服务必须通过一定的软件开发工具和开发环境进行生产。说这些就是想确认：软件是一种生产资料。不过，通过作为生产资料的软件生产出来的劳动产品也是一种软件。
+</p>
+</blockquote>
+
+<p>
+我不认同。软件仅仅是一种知识、信息，软件本身不是生产资料，装有生产力软件的电脑才是生产资料。没错，软件可以作为生产资料使用，但它本身不是生产资料，它本身不足以作为生产资料；换句话说：软件是硬件的增值服务。
+</p>
+
+<ul class="org-ul">
+<li>用词不恰当：</li>
+</ul>
+
+<p>
+安玲在这篇文章内明显把自由软件运动（Free software）与开源软件（Open-source software）混淆了。
+</p>
+
+<blockquote>
+<p>
+开源软件的第七条定义规定了开源的版权原则，这种版权原则是传染性的，保证社会主义性质的生产能够不断扩大，不断增值，以挤占资本主义生产资料私有制的生产空间。
+</p>
+</blockquote>
+
+<p>
+开源软件实际上是自由软件运动向资本主义妥协的部分，很多开源软件协议（Open-source license）允许衍生品闭源，这实际上是为资产阶级节约成本、利用社区提供了便利；而 GPL 协议（GNU General Public License）是传染性的，它保证自由软件的生产可以不断扩大，是激进的信息公有。
+</p>
+
+<ul class="org-ul">
+<li>关于自由软件运动的性质</li>
+</ul>
+
+<p>
+安玲先生认为自由软件运动作为公有制生产关系是社会主义性质的，我个人认为这是不恰当的。自由软件运动，强调的是用户的自由，它反对版权不反对私有制，但自由软件运动是共产主义运动的“潜在”支持者，因为它的部分诉求可以通过共运实现，这也是自由软件运动的进步性所在。
+</p>
+
+<p>
+（未完待续）
+</p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2017-08-19 六 10:32</p>
+<p class="date">Created: 2017-08-19 六 10:31</p>
 <p class="validation"></p>
 </div>
 </body>
